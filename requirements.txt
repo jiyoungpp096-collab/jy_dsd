@@ -1,4 +1,4 @@
 pandas
-plotly
-steamlit
 numpy
+plotly
+streamlit
